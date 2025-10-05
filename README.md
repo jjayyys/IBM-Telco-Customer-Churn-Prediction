@@ -1,2 +1,3 @@
 # IBM-Telco-Customer-Churn-Prediction
-DE361: Machine-Learning mid term p
+DE361: Introduction to Machine-Learning
+Midterm project
